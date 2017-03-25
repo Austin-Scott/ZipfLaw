@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+main.cpp(158): warning C4018: '<': signed/unsigned mismatch
+main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 573 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ZipfLaw.vcxproj -> C:\Users\austi\documents\visual studio 2017\Projects\ZipfLaw\Release\ZipfLaw.exe

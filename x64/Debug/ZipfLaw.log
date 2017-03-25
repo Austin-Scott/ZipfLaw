@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\austi\documents\visual studio 2017\projects\zipflaw\zipflaw\main.cpp(77): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+  ZipfLaw.vcxproj -> C:\Users\austi\documents\visual studio 2017\Projects\ZipfLaw\x64\Debug\ZipfLaw.exe
+  ZipfLaw.vcxproj -> C:\Users\austi\documents\visual studio 2017\Projects\ZipfLaw\x64\Debug\ZipfLaw.pdb (Partial PDB)
