@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\austi\documents\visual studio 2017\projects\zipflaw\zipflaw\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\austi\documents\visual studio 2017\projects\zipflaw\zipflaw\main.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\austi\documents\visual studio 2017\projects\zipflaw\zipflaw\main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+  ZipfLaw.vcxproj -> c:\users\austi\documents\visual studio 2017\Projects\ZipfLaw\Debug\ZipfLaw.exe
+  ZipfLaw.vcxproj -> c:\users\austi\documents\visual studio 2017\Projects\ZipfLaw\Debug\ZipfLaw.pdb (Partial PDB)
